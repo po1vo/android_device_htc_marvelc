@@ -1,0 +1,15 @@
+[
+  {
+    "repository": "android_device_htc_msm7x27-common",
+    "target_path": "device/htc/msm7x27-common"
+  }
+  {
+    "repository": "android_device_htc_marvel-common",
+    "target_path": "device/htc/marvel-common"
+  }
+  {
+    "repository": "kernel_htc_msm7227",
+    "target_path": "kernel/htc/msm7227"
+  }
+]
+
